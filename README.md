@@ -28,7 +28,7 @@ I implemented the game with Java language using Intellij IDEA Ultimate IDE, usin
 <ol>
   <li><h4>Apache Ant</h4>Download the source code to any folder, open terminal in the main folder and write: "ant" 
   this command will build the game, after that write commnad: ant run -Dargs="{levels}" where as levels is which levels you want to load. for example 
-  if you want level 1, 3 and 4 just write: ant run -Dargs="{1 3 4}" at that order.</li>
+  if you want level 1, 3 and 4 just write: ant run -Dargs="1 3 4" at that order.</li>
   <li><h4>Executable Jar File</h4> Just download the release jar and double click on it (make sure you have JDK installed)</li>
   <li><h4>Opening Project From IDE</h4> Just download the source code and open the project from the IDE and rebuild it.</li>
 </ol>
