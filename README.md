@@ -5,14 +5,14 @@ The old classic Arkanoid game in java language
 The game contains various levels with increasing difficulty, in a gui friendly platform.
 I implemented the game with Java language using Intellij IDEA Ultimate IDE, using the following OOP principals:</p>
 
-<img src="./arkanoid.gif">
-
 <ul>
   <li>Polymorphism and inheritance.</li>
   <li>Usage of basic design patterns in OOP, such as Observer, Builder, etc.</li>
   <li>Usage of several generic collections and data structures such as linked lists and arraylists.</li>
   <li>Working with GUI.</li>
 </ul>
+
+<img src="./arkanoid.gif">
 
 <h1>Dependencies</h1>
 
